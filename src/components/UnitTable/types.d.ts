@@ -1,0 +1,3 @@
+interface UnitTableProps {
+  unitRows: UnitRow[]
+}

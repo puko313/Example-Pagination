@@ -1,0 +1,40 @@
+.image-block {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+  position: relative;
+
+  margin-right: 0;
+  margin-bottom: var(--size-5);
+  @media (min-width: 1024px) {
+    margin-right: var(--size-5);
+    margin-bottom: 0;
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: var(--size-1) var(--size-1) 0px 0px;
+  }
+  .deadline {
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    padding: var(--size-4);
+    font-size: var(--size-3_5);
+    border-radius: 0px 0px var(--size-1) var(--size-1);
+  }
+
+  .label-container {
+    position: absolute;
+    margin: var(--size-3);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    > * {
+      margin-bottom: var(--size-2);
+    }
+    :not(:last-child) {
+      margin-right: var(--size-2);
+    }
+  }
+}

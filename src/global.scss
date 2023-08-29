@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900,700");
+
+:root {
+  --font-family: "Lato", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  --color-white: #ffffff;
+  --color-blue: #0077da;
+  --color-yellow: #fdb81e;
+  --color-off-white: #f7f7f7;
+  --color-gray-lightest: #efefef;
+  --color-gray-lighter: #cccccc;
+  --color-gray: #555555;
+  --color-gray-dark: ##1f2937;
+  --color-gray-darker: #333333;
+  --color-gray-darkest: #222222;
+
+  --size-0_5: 0.125rem;
+  --size-1: 0.25rem;
+  --size-1_5: 0.375rem;
+  --size-2: 0.5rem;
+  --size-2_5: 0.625rem;
+  --size-3: 0.75rem;
+  --size-3_5: 0.875rem;
+  --size-4: 1rem;
+  --size-5: 1.25rem;
+  --size-6: 1.5rem;
+  --size-7: 1.75rem;
+  --size-8: 2rem;
+  --size-9: 2.25rem;
+  --size-10: 2.5rem;
+  --size-11: 2.75rem;
+  --size-12: 3rem;
+
+  --mobile-breakpoint: 640px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

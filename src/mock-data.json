@@ -1,0 +1,358 @@
+[
+  {
+    "id": "1eeb84ca-4575-4d6c-8e11-1beb8b0fa9dc",
+    "name": "Supportal",
+    "address": {
+      "street": "2911 Sampson St",
+      "city": "Englewood",
+      "state": "CO",
+      "zipCode": "80112"
+    },
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/house_goo3cp.jpg",
+    "imageLabels": [],
+    "listingLabels": [],
+    "tableHeader": "Otherwise sincerity dependent",
+    "tableSubheader": "Advantage old had",
+    "deadline": "April 21st, 2023",
+    "unitTableData": [
+      {
+        "type": "studio",
+        "rentMinimum": 800,
+        "rentMaximum": 800,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2110,
+        "minIncomeMaximum": 2110
+      }
+    ]
+  },
+  {
+    "id": "4dea1d79-646e-4e7d-b42a-a8bd039ef88b",
+    "name": "Utarian",
+    "address": {
+      "street": "4512 Worley Worchestershire Ave",
+      "city": "South Bonadelle Madera Shores",
+      "state": "VA",
+      "zipCode": "24592"
+    },
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/oakhouse_r4ybzn.jpg",
+    "imageLabels": ["Accessible Units"],
+    "listingLabels": ["Air Conditioning"],
+    "tableHeader": "Everything so dispatched",
+    "tableSubheader": null,
+    "deadline": "January 10th, 2023",
+    "unitTableData": [
+      {
+        "type": "oneBdrm",
+        "rentMinimum": 1178,
+        "rentMaximum": 1178,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2356,
+        "minIncomeMaximum": 2356
+      }
+    ]
+  },
+  {
+    "id": "b9327d40-8c6e-47b9-b515-844bde4662b6",
+    "name": "Ziggles",
+    "address": {
+      "street": "3908 Walt Nuzum Farm Rd",
+      "city": "Arcade",
+      "state": "NY",
+      "zipCode": "14009"
+    },
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/house_goo3cp.jpg",
+    "imageLabels": ["Reserved"],
+    "tableHeader": null,
+    "tableSubheader": null,
+    "deadline": "November 5th, 2023",
+    "listingLabels": [],
+    "unitTableData": [
+      {
+        "type": "studio",
+        "rentMinimum": 2510,
+        "rentMaximum": 2510,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 1255,
+        "minIncomeMaximum": 1255
+      }
+    ]
+  },
+  {
+    "id": "f943d82e-84c5-4f7e-8891-970ad1b498bf",
+    "name": "Quantalia",
+    "address": {
+      "street": "2012 Virgil St",
+      "city": "Defuniak Springs",
+      "state": "FL",
+      "zipCode": "32425"
+    },
+    "imageLabels": [],
+    "listingLabels": ["Washer & Dryer", "Garage", "Fireplace", "Nearby Public Transport"],
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/oakhouse_r4ybzn.jpg",
+    "tableHeader": "Any advantages dissimilar",
+    "tableSubheader": "Was certainty remaining engrossed applauded sir how discovery settled opinion how enjoyed greater joy adapted too shy",
+    "deadline": "March 12th, 2023",
+    "unitTableData": [
+      {
+        "type": "oneBdrm",
+        "rentMinimum": 1492,
+        "rentMaximum": 1492,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2984,
+        "minIncomeMaximum": 3300
+      },
+      {
+        "type": "twoBdrm",
+        "rentMinimum": 1492,
+        "rentMaximum": 1492,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 3420,
+        "minIncomeMaximum": 3420
+      },
+      {
+        "type": "fourBdrm",
+        "rentMinimum": 1680,
+        "rentMaximum": 1780,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 3555,
+        "minIncomeMaximum": 4200
+      }
+    ]
+  },
+  {
+    "id": "d80cc090-2c37-4a8c-911c-76c76e0c664e",
+    "name": "Exoplode",
+    "address": {
+      "street": "2404 Cedar Ln",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02110"
+    },
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/house_goo3cp.jpg",
+    "imageLabels": ["Units Available", "Reserved"],
+    "listingLabels": ["Garage"],
+    "tableHeader": "May musical arrival beloved luckily adapted him",
+    "tableSubheader": "Express village evening prudent my as ye hundred forming",
+    "deadline": "March 21st, 2023",
+    "unitTableData": [
+      {
+        "type": "studio",
+        "rentMinimum": 30,
+        "rentMaximum": 30,
+        "rentUnit": "percentage",
+        "minIncomeMinimum": 0,
+        "minIncomeMaximum": 0
+      },
+      {
+        "type": "oneBdrm",
+        "rentMinimum": 875,
+        "rentMaximum": 875,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2188,
+        "minIncomeMaximum": 2188
+      },
+      {
+        "type": "twoBdrm",
+        "rentMinimum": 915,
+        "rentMaximum": 950,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2335,
+        "minIncomeMaximum": 2335
+      },
+      {
+        "type": "threeBdrm",
+        "rentMinimum": 1020,
+        "rentMaximum": 1020,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2405,
+        "minIncomeMaximum": 2405
+      },
+      {
+        "type": "fourBdrm",
+        "rentMinimum": 1115,
+        "rentMaximum": 1175,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2241,
+        "minIncomeMaximum": 2600
+      }
+    ]
+  },
+  {
+    "id": "011598e9-3751-4472-9225-fcdcd8983311",
+    "name": "Hydrocom",
+    "address": {
+      "street": "2896 Bubble Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78749"
+    },
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/oakhouse_r4ybzn.jpg",
+    "imageLabels": ["Waitlist Open", "Available in September", "Open", "Ready for Move-In"],
+    "listingLabels": [],
+    "tableHeader": null,
+    "tableSubheader": null,
+    "deadline": "December 26th, 2023",
+    "unitTableData": [
+      {
+        "type": "oneBdrm",
+        "rentMinimum": 30,
+        "rentMaximum": 30,
+        "rentUnit": "percentage",
+        "minIncomeMinimum": 0,
+        "minIncomeMaximum": 0
+      },
+      {
+        "type": "twoBdrm",
+        "rentMinimum": 30,
+        "rentMaximum": 35,
+        "rentUnit": "percentage",
+        "minIncomeMinimum": 0,
+        "minIncomeMaximum": 0
+      }
+    ]
+  },
+  {
+    "id": "45e41fff-fb61-498c-a701-5015cb81b20b",
+    "name": "Tropoli",
+    "address": {
+      "street": "2966 Hummingbird Way",
+      "city": "Topeka",
+      "state": "KS",
+      "zipCode": "66212"
+    },
+    "imageLabels": [],
+    "listingLabels": [],
+    "tableHeader": "Announcing of invitation principles",
+    "tableSubheader": null,
+    "deadline": "May 2nd, 2023",
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/house_goo3cp.jpg",
+    "unitTableData": [
+      {
+        "type": "studio",
+        "rentMinimum": 1339,
+        "rentMaximum": 1607,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2678,
+        "minIncomeMaximum": 3214
+      },
+      {
+        "type": "oneBdrm",
+        "rentMinimum": 1286,
+        "rentMaximum": 1929,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2572,
+        "minIncomeMaximum": 3858
+      },
+      {
+        "type": "twoBdrm",
+        "rentMinimum": 1485,
+        "rentMaximum": 2228,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2970,
+        "minIncomeMaximum": 4456
+      }
+    ]
+  },
+  {
+    "id": "c83242d5-5fa5-47c7-b81d-5076d490068b",
+    "name": "Tribalog",
+    "address": {
+      "street": "3714 University Hill Rd",
+      "city": "Quincy",
+      "state": "IL",
+      "zipCode": "62301"
+    },
+    "imageLabels": [],
+    "listingLabels": [],
+    "tableHeader": "Musicality",
+    "tableSubheader": "Middletons acceptance discovered projecting so is so or in or attachment inquietude remarkably comparison at an is surrounded prosperous",
+    "deadline": "June 17th, 2023",
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/oakhouse_r4ybzn.jpg",
+    "unitTableData": [
+      {
+        "type": "twoBdrm",
+        "rentMinimum": 1255,
+        "rentMaximum": 1255,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2510,
+        "minIncomeMaximum": 2510
+      }
+    ]
+  },
+  {
+    "id": "c2e03dfc-cb5e-4580-91c7-a13b0baee5a2",
+    "name": "Tetak",
+    "address": {
+      "street": "2282 Ferry St",
+      "city": "Huntsville",
+      "state": "AL",
+      "zipCode": "35816"
+    },
+    "imageLabels": [],
+    "listingLabels": ["Fireplace"],
+    "tableHeader": null,
+    "tableSubheader": null,
+    "deadline": "January 30th, 2023",
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/house_goo3cp.jpg",
+    "unitTableData": [
+      {
+        "type": "oneBdrm",
+        "rentMinimum": 1178,
+        "rentMaximum": 1178,
+        "rentUnit": "",
+        "minIncomeMinimum": 2356,
+        "minIncomeMaximum": 2356
+      },
+      {
+        "type": "twoBdrm",
+        "rentMinimum": 1255,
+        "rentMaximum": 1255,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 2510,
+        "minIncomeMaximum": 2510
+      },
+      {
+        "type": "threeBdrm",
+        "rentMinimum": 1492,
+        "rentMaximum": 1492,
+        "rentUnit": "",
+        "minIncomeMinimum": 2984,
+        "minIncomeMaximum": 2984
+      },
+      {
+        "type": "fourBdrm",
+        "rentMinimum": 1710,
+        "rentMaximum": 1710,
+        "rentUnit": "currency",
+        "minIncomeMinimum": 3240,
+        "minIncomeMaximum": 3240
+      }
+    ]
+  },
+  {
+    "id": "fe6769ff-953f-4a43-9ea5-50e36cbdc888",
+    "name": "Playce",
+    "address": {
+      "street": "929 Eagle Ln",
+      "city": "Wadena",
+      "state": "MN",
+      "zipCode": "56482"
+    },
+    "imageLabels": [],
+    "listingLabels": ["Common Wifi"],
+    "tableHeader": "Congratulations",
+    "tableSubheader": null,
+    "deadline": "July 1st, 2023",
+    "imageURL": "https://res.cloudinary.com/exygy/image/upload/w_1302,c_limit,q_65/dev/oakhouse_r4ybzn.jpg",
+    "unitTableData": [
+      {
+        "type": "fourBdrm",
+        "rentMinimum": 10,
+        "rentMaximum": 25,
+        "rentUnit": "percent",
+        "minIncomeMinimum": 0,
+        "minIncomeMaximum": 0
+      }
+    ]
+  }
+]

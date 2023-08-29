@@ -1,0 +1,15 @@
+.label {
+  width: fit-content;
+  padding: var(--size-2) var(--size-4) var(--size-2) var(--size-4);
+  border-radius: var(--size-1);
+  font-size: var(--size-3_5);
+}
+
+.image-style {
+  background-color: var(--color-yellow);
+  color: var(--color-gray-darkest);
+}
+.listing-style {
+  background-color: var(--color-blue);
+  color: var(--color-white);
+}

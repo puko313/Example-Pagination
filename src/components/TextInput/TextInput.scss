@@ -1,0 +1,22 @@
+.text-input {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  label {
+    color: var(--color-gray);
+    font-size: var(--size-3_5);
+    margin-bottom: var(--size-1_5);
+  }
+  input {
+    padding: var(--size-3);
+    background-color: var(--color-off-white);
+    border: 1px solid var(--color-gray-lighter);
+    border-radius: var(--size-1);
+    font-size: var(--size-4);
+    width: fit-content;
+  }
+  ::placeholder {
+    color: var(--color-gray);
+    font-family: var(--font-family);
+  }
+}
