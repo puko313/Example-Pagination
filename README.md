@@ -1,54 +1,35 @@
-Contribution: 2019-09-11 20:00
+# Exygy Assessment
 
-Contribution: 2019-09-11 20:01
+This project was initialized with [Create React App](https://github.com/facebook/create-react-app) and Typescript.
 
-Contribution: 2019-09-12 20:00
+The main entry point for the application is in `Listings.tsx`. Individual components live in the `components` folder and each component's styles live in a similarly named file in the same folder. Global styles and shared theming variables live in the `global.scss` file.
 
-Contribution: 2019-09-12 20:01
+Two simple tests for the `Listings` component have been written that just ensures some simple text is present in the document.
 
-Contribution: 2019-09-12 20:02
+## Available Scripts
 
-Contribution: 2019-09-12 20:03
+In the project directory, you can run:
 
-Contribution: 2019-09-17 20:00
+### `yarn start`
 
-Contribution: 2019-09-19 20:00
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2019-09-19 20:01
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Contribution: 2019-09-23 20:00
+### `yarn test`
 
-Contribution: 2019-09-23 20:01
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2019-09-23 20:02
+### `yarn build`
 
-Contribution: 2019-09-24 20:00
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2019-09-24 20:01
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2019-09-24 20:02
-
-Contribution: 2019-09-24 20:03
-
-Contribution: 2019-09-24 20:04
-
-Contribution: 2019-09-25 20:00
-
-Contribution: 2019-09-25 20:01
-
-Contribution: 2019-09-25 20:02
-
-Contribution: 2019-09-25 20:03
-
-Contribution: 2019-09-25 20:04
-
-Contribution: 2019-09-26 20:00
-
-Contribution: 2019-09-26 20:01
-
-Contribution: 2019-09-26 20:02
-
-Contribution: 2019-09-26 20:03
-
-Contribution: 2019-09-26 20:04
-
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# PaginationExample
